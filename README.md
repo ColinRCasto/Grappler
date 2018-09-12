@@ -26,12 +26,12 @@ Level | Proficiency Bonus | Features | Bare Handed die
 20th | +6 | Feature | d10
 
 ## Unarmored Defense
----
+
 While you are not wearing any armor or wielding a shield, your Armor Class equals 10 + your Dexterity
 modifier + your Constitution modifier.
 
 ## Bare Handed
----
+
 At 1st level, you gain the following benefits while you are unarmed
 and you aren't wearing armor or wielding a shield, you can roll a d4 in place of the normal damage
 of your unarmed strike.	This die changes as you levels in this class, increasing to d6 at level 5,
