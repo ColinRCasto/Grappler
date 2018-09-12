@@ -40,7 +40,7 @@ you are proficient in the Athletics(STR) skill.
 
 
 ## Champions Grasp
----
+
 Starting at level 2, you may make an attack as a bonus action. This attack is restricted
 by the following rules:
 
@@ -50,42 +50,42 @@ by the following rules:
 
 
 ## Grappling Techniques
----
+
 Starting at level 2, you gain access to several unique attack actions the DC for any techniques that require it
 is equal to 8 + you're proficiency bonus + Your strength modifier, you must not be prone to peform any of these attacks:
 
 ### Toss
----
+
 You may throw a creature you are grappling up to a distance of your Strength modifier*5ft, dealing damage equal
 to your Bare Handed die + your Strength modifier. Upon landing the creature must make a Dexterity save, on a failed
 save they fall prone. A creature must be thrown into an unoccupied space
 
 ### Suplex
----
+
 You may push a creature prone in an unoccupied space adjancent to you, dropping prone yourself in the process,
 and dealing damage equal to your Bare Handed die + your Strength modifier.
 
 ### Body Slam
----
+
 If you move at least 10 feet in a straight line beforehand, you may fall prone on top of a prone creature, dealing
 damage equal to twice your Bare Handed die + your Strength modifier.
 
 ## Grappling Style
----
+
 at 3rd level, you may choose a grappling style, Which grants additional features at levels 6, 11, and 14
 
 ## Ability Score Imporvement
----
+
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability 
 score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, 
 you can't increase an ability score above 20 using this feature.
 
 ## Extra Attack
----
+
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ## Gifted Wrestler
----
+
 Starting at 5th level You're proficiency bonus is doubled for Athletics(STR) checks made to initiate,
 maintain, or resist a grapple. In addition, standing from prone costs you 5ft of movement instead of half of your
 speed.
