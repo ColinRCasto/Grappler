@@ -62,8 +62,7 @@ save they fall prone. A creature must be thrown into an unoccupied space
 
 ### Suplex
 
-You may push a creature prone in an unoccupied space adjancent to you, dropping prone yourself in the process,
-and dealing damage equal to your Bare Handed die + your Strength modifier.
+Make an attack roll against a creature you are grappling, on success, you may push a creature prone in an unoccupied space adjancent to you, dropping prone yourself in the process, and dealing damage equal to your Bare Handed die + your Strength modifier.
 
 ### Body Slam
 
@@ -90,4 +89,14 @@ Starting at 5th level You're proficiency bonus is doubled for Athletics(STR) che
 maintain, or resist a grapple. In addition, standing from prone costs you 5ft of movement instead of half of your
 speed.
 
+# Grappling Styles
+
+## Strong Style
+
+## Hardened Body
+Starting at 3rd level you are resistant slashing, piercing, and bludgeoning damage from any creatures you are aware of
+
+## Bomaye
+
+At 6th level you gain access to a new technique, if you move at least 10ft in a straight line immediately before attacking a standing creature, on hit The target must succeed on a Constitution saving throw or be stunned until the end of your next turn. If the target fails the save by 5 or more, they are knocked prone.
 
