@@ -86,17 +86,21 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 ## Gifted Wrestler
 
 Starting at 5th level You're proficiency bonus is doubled for Athletics(STR) checks made to initiate,
-maintain, or resist a grapple. In addition, standing from prone costs you 5ft of movement instead of half of your
-speed.
+maintain, or resist a grapple. In addition, you can grapple a creature up to 2 size categories larger than you.
 
 # Grappling Styles
 
+## Masked Fighter Style
+
+## Bravado Style
+
+
 ## Strong Style
 
-## Hardened Body
+### Hardened Body
 Starting at 3rd level you are resistant slashing, piercing, and bludgeoning damage from any creatures you are aware of
 
-## Bomaye
+### Bomaye
 
-At 6th level you gain access to a new technique, if you move at least 10ft in a straight line immediately before attacking a standing creature, on hit The target must succeed on a Constitution saving throw or be stunned until the end of your next turn. If the target fails the save by 5 or more, they are knocked prone.
+At 6th level you gain access to a new technique, if you move at least 10ft in a straight line immediately before attacking a standing creature, on hit The target must succeed on a Constitution saving throw or become restrained until the end of your next turn.
 
