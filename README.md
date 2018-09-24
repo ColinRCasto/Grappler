@@ -9,8 +9,8 @@ Level | Proficiency Bonus | Features | Bare Handed die
 3rd | +2 | Grappling Style | d4
 4th | +2 | Ability Score Increase | d4
 5th | +3 | Extra Attack, Gifted Wrestler | d6
-6th | +3 | Grappling Style Feature | d6
-7th | +3 | Feature | d6
+6th | +3 | Empowered Strikes, Overwhelming Pressence | d6
+7th | +3 | Grappling Style Feature | d6
 8th | +3 | Ability Score Increase | d6
 9th | +4 | Feature | d6
 10th | +4 | Feature | d6
@@ -56,17 +56,17 @@ is equal to 8 + you're proficiency bonus + Your strength modifier, you must not 
 
 ### Toss
 
-You may throw a creature you are grappling up to a distance of your Strength modifier*5ft, dealing damage equal
+You may throw a creature you are grappling up to a distance of your Strength modifier x 5ft, dealing damage equal
 to your Bare Handed die + your Strength modifier. Upon landing the creature must make a Dexterity save, on a failed
-save they fall prone. A creature must be thrown into an unoccupied space
+save they fall prone. A creature must be thrown into an unoccupied space. If this throw would cause them to fall more than 5ft, they have advantage on the saving throw.
 
 ### Suplex
 
-Make an attack roll against a creature you are grappling, on success, you may push a creature prone in an unoccupied space adjancent to you, dropping prone yourself in the process, and dealing damage equal to your Bare Handed die + your Strength modifier.
+Make an attack roll against a creature you are grappling, on success, you slam the creature prone in an unoccupied space adjancent to you, dropping prone yourself in the process, and dealing damage equal to your Bare Handed die + your Strength modifier.
 
 ### Body Slam
 
-If you move at least 10 feet in a straight line beforehand, you may fall prone on top of a prone creature, dealing
+If you perform a long jump before attacking a prone creature, you may fall prone on top of the target, dealing
 damage equal to twice your Bare Handed die + your Strength modifier.
 
 ## Grappling Style
@@ -85,12 +85,29 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ## Gifted Wrestler
 
-Starting at 5th level You're proficiency bonus is doubled for Athletics(STR) checks made to initiate,
-maintain, or resist a grapple. In addition, you can grapple a creature up to 2 size categories larger than you.
+Starting at 5th level You're proficiency bonus is doubled for Athletics(STR) checks. In addition, you can grapple a creature up to 2 size categories larger than you.
+
+## Empowered Strikes
+
+Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
+
+## Overwhelming Pressence
+
+Starting at 6th level, you have advantage on all Athletics(STR) checks made to initiate,
+maintain, resist, or break a grapple.
 
 # Grappling Styles
 
-## Masked Fighter Style
+## Free Wrestling Style
+
+### Seasoned Acrobat
+Starting at 3rd level, you may make an Athletics(STR) check in place of any Acrobatics(DEX) check. In addition, you gain a climbing speed equal to your walking speed and you may perfom a long jump without running 10ft before hand.
+
+### Flying press
+At 7th level you gain access to a new technique, the Flying Press. If you are able to reach a creature when jumping from a higher elevation you may make an attack roll against them. On hit the target takes damage eqaual to your (Number of feet fallen/10ft rounded down x your Bare Handed die) + your Strength modifier. You recieve half of the normal falling damage. If you miss the attack you fall prone in a space you can reach adjacent to the target, taking the normal amount of falling damage.
+
+
+### 
 
 ## Bravado Style
 
@@ -102,5 +119,5 @@ Starting at 3rd level you are resistant slashing, piercing, and bludgeoning dama
 
 ### Bomaye
 
-At 6th level you gain access to a new technique, if you move at least 10ft in a straight line immediately before attacking a standing creature, on hit The target must succeed on a Constitution saving throw or become restrained until the end of your next turn.
+At 7th level you gain access to a new technique, the Bomaye. When you hit a standing creature with an unarmed strike, if you have moved at least 10ft in a straight line immediately before making the attack, the target must succeed on a Constitution saving throw or become restrained until the end of your next turn.
 
