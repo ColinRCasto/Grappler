@@ -27,8 +27,7 @@ Level | Proficiency Bonus | Features | Bare Handed die
 
 ## Unarmored Defense
 
-While you are not wearing any armor or wielding a shield, your Armor Class equals 10 + your Dexterity
-modifier + your Constitution modifier.
+While you are not wearing any armor or wielding a shield, your Armor Class equals 8 + your proficiency bonus + your Constitution modifier.
 
 ## Bare Handed
 
